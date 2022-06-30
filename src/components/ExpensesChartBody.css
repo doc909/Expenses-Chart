@@ -1,0 +1,15 @@
+.expenses-chart-body-wrapper {
+    background: whitesmoke;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    color: hsl(25, 47%, 15%);
+}
+
+.expenses-chart-body-header {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.expenses-chart-body-header p {
+    margin-bottom: 1rem;
+}
